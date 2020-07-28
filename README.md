@@ -6,16 +6,16 @@ QBox is a secure file-sharing service. It is a customized version of the popular
 
 During this Micro-Experience, I:
 
->Created pre-install scripts to run system checks, install and configure QBox.
+     Created pre-install scripts to run system checks, install and configure QBox.
 
-Developed tools to automatically analyze performance and functionality issues in different versions of QBox.
+     Developed tools to automatically analyze performance and functionality issues in different versions of QBox.
+     
 ![Module-1](https://user-images.githubusercontent.com/52848980/88693642-28fac000-d11d-11ea-9c0c-5de342077e68.png)
 
 QBox Modules
 
 1. Check system requirements and install QBox
-  
-       -Scope of work:
+          Scope of work:
  
 Implemented a pre-installation script that validated the minimum system requirements to be met for QBox installation. The script checked the availability of the following system resources:
 
