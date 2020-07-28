@@ -15,8 +15,8 @@ QBox Modules
 
 1. Check system requirements and install QBox
   
-  -Scope of work:
-
+       -Scope of work:
+ 
 Implemented a pre-installation script that validated the minimum system requirements to be met for QBox installation. The script checked the availability of the following system resources:
 
 - Processor
@@ -29,7 +29,7 @@ Implemented a pre-installation script that validated the minimum system requirem
 
 2. Debug performance issues and identify regressions
 
-  -Scope of work:
+       -Scope of work:
 
 1. Created a performance benchmark using a base version of QBox.
 2. Identified regressions in newer QBox versions (memory usage, cpu usage, file transfer speed, file permission issues).
@@ -37,7 +37,7 @@ Implemented a pre-installation script that validated the minimum system requirem
 
 3. Troubleshoot network issues
 
-  -Scope of work:
+       -Scope of work:
 
 1. Collected and analyzed pcap files using Wireshark.
 2. Identified the following network issues in different versions of QBox: TCP retransmissions, connection refusals, dropped connections, sub-optimal TCP window sizes and retransmission delays.
@@ -46,7 +46,7 @@ Implemented a pre-installation script that validated the minimum system requirem
 
 4.Enable end-to-end encryption
   
-  -Scope of work:
+     -Scope of work:
 
 1. Created SSL certificates and used them to enable secured file transfer.
 2. Snooped network traffic using Wireshark and ensured that it was indeed encrypted.
