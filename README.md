@@ -15,6 +15,7 @@ During this Micro-Experience, I:
 QBox Modules
 
 1. Check system requirements and install QBox
+          
           Scope of work:
  
 Implemented a pre-installation script that validated the minimum system requirements to be met for QBox installation. The script checked the availability of the following system resources:
