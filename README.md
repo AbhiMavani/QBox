@@ -25,7 +25,7 @@ Implemented a pre-installation script that validated the minimum system requirem
 - OS version
 
 Installed the QBox server and connected it to various QBox clients.
-Module-1
+![Module-2](https://user-images.githubusercontent.com/52848980/88693649-2bf5b080-d11d-11ea-9ae4-6aba4820d67d.jpg)
 
 Debug performance issues and identify regressions
 
@@ -33,7 +33,7 @@ Scope of work:
 
 1. Created a performance benchmark using a base version of QBox.
 2. Identified regressions in newer QBox versions (memory usage, cpu usage, file transfer speed, file permission issues).
-Module-2
+![Module-3](https://user-images.githubusercontent.com/52848980/88693660-2ef0a100-d11d-11ea-8c11-cff185833823.jpg)
 
 Troubleshoot network issues
 
@@ -42,8 +42,7 @@ Scope of work:
 1. Collected and analyzed pcap files using Wireshark.
 2. Identified the following network issues in different versions of QBox: TCP retransmissions, connection refusals, dropped connections, sub-optimal TCP window sizes and retransmission delays.
 3. Identified several network issues in different versions of QBox including TCP retransmissions, connection refusals and retransmission delays.
-Module-3
-
+![Module-4](https://user-images.githubusercontent.com/52848980/88693670-31eb9180-d11d-11ea-806e-54b4225b1142.jpg)
 Enable end-to-end encryption
 
 Scope of work:
